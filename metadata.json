@@ -1,0 +1,6 @@
+{
+  "name": "Live Training Satisfaction Survey & Dashboard",
+  "description": "ระบบแบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์ พร้อมหน้าตอบบนมือถือ แดชบอร์ดสรุปผลขึ้นจอโปรเจกเตอร์ และโค้ดแยก 2 ไฟล์พร้อมคู่มือ Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
